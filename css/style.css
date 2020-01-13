@@ -1,0 +1,14 @@
+body
+{
+	background-color: black
+}
+p {
+	color: purple; 
+	line-height: 1.25;
+          margin-bottom: 1em;
+}
+.first {
+	color: navy; 
+	font-weight: bold; 
+  	border-left: 5px solid beige;
+}
