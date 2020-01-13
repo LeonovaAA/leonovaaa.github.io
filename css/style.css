@@ -1,0 +1,46 @@
+* {
+  outline: 1px solid green;
+}
+body {
+  background-color: #000;
+  color: #fff;
+}
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.logo {
+  margin-right: 60px;
+}
+
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.site-menu {
+  width: 660px;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 25px;
+}
+
+.nav li {
+  margin-right: 40px;
+	
+}
+.contacts {
+  max-width: 180px;
+  margin-left: auto;
+  margin-right: 80px;
+  display: flex;
+  justify-content: center;
+}
+
